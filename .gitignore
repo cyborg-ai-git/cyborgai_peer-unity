@@ -1,3 +1,6 @@
 *.assets*
+*.so
+*.onnx
++.ort
 tests
 run_git_push.sh
