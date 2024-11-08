@@ -1,0 +1,3 @@
+*.assets*
+tests
+run_git_push.sh
